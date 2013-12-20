@@ -1,0 +1,4 @@
+Training data: herb gold
+OCR data: herb silver
+
+For each OCR document, visualizing words with their OCR confidence scores, using CSS + HTML for visualization.
